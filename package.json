@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-webpack-err-repro",
+  "version": "0.1.0",
+  "dependencies": {
+    "gatsby": "^2.20.28",
+    "gatsby-cli": "^2.11.14",
+    "raw-loader": "^4.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  }
+}
